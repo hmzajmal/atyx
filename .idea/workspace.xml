@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7638d459-0205-4d6b-92dc-7247974d00d4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/atyx.io/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/css/creative.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/css/creative.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/fullsize/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/fullsize/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/fullsize/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/fullsize/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/fullsize/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/fullsize/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/thumbnails/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/thumbnails/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/thumbnails/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/thumbnails/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/thumbnails/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/portfolio/thumbnails/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/img/technologies.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/js/creative.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/js/creative.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/scss/_bootstrap-overrides.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/scss/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/scss/_masthead.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/scss/_portfolio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/scss/_services.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/public/scss/creative.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/ContactPage/ContactSection1/ContactSection1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/ContactPage/ContactSection1/ContactSection1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/ContactPage/ContactSection1/ContactSection1.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/ContactPage/Header/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/ContactPage/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/ContactPage/Header/Header.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Footer/Footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Footer/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Footer/Footer.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Header/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Header/Header.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Home/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Home/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Home/Home.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/Header/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/Header/Header.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection1/HomeSection1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection1/HomeSection1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection1/HomeSection1.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection2/HomeSection2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection2/HomeSection2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection2/HomeSection2.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection3/HomeSection3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection3/HomeSection3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection3/HomeSection3.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection4/HomeSection4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection4/HomeSection4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/HomePage/HomeSection4/HomeSection4.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/MobileHeader/MobileHeader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/MobileHeader/MobileHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/MobileHeader/MobileHeader.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Navbar/Navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Navbar/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Navbar/Navbar.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/NotFound/NotFound.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/NotFound/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/NotFound/NotFound.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/OurWorkPage/Header/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/OurWorkPage/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/OurWorkPage/Header/Header.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/OurWorkPage/OurWorkSection1/OurWorkSection1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/OurWorkPage/OurWorkSection1/OurWorkSection1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/OurWorkPage/OurWorkSection1/OurWorkSection1.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Sidebar/Sidebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Sidebar/Sidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Sidebar/Sidebar.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Signup/Signup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Signup/Signup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Signup/Signup.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Welcome/Welcome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Welcome/Welcome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/Welcome/Welcome.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/Header/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/Header/Header.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/WhatWeDo/WhatWeDo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/WhatWeDo/WhatWeDo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/WhatWeDo/WhatWeDo.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/WhatWeDoSection1/WhatWeDoSection1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/WhatWeDoSection1/WhatWeDoSection1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/WhatWeDoSection1/WhatWeDoSection1.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/WhatWeDoSection2/WhatWeDoSection2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/WhatWeDoSection2/WhatWeDoSection2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/components/WhatWeDoPage/WhatWeDoSection2/WhatWeDoSection2.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/services/PostData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/styles/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atyx.io/src/styles/foundation.min.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="58" column="88" selection-start-line="58" selection-start-column="88" selection-end-line="58" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/atyx.io" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/routes.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1042" />
+    <option name="y" value="257" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-seminar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-seminar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-seminar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-seminar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-seminar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-seminar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-seminar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-seminar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Footer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/IntuitiveAI" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kisha\Downloads\CodingProjects\reactapp\react-seminar\public" />
+      <recent name="C:\Users\kisha\Downloads\CodingProjects\reactapp\react-seminar\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7638d459-0205-4d6b-92dc-7247974d00d4" name="Default" comment="" />
+      <created>1528233387560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528233387560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1042" y="257" width="974" height="1087" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947807" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="88" selection-start-line="58" selection-start-column="88" selection-end-line="58" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="88" selection-start-line="58" selection-start-column="88" selection-end-line="58" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="58" column="88" selection-start-line="58" selection-start-column="88" selection-end-line="58" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
