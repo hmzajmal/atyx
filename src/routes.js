@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {BrowserRouter,  Route, Redirect, Switch} from 'react-router-dom';
+import {BrowserRouter, Route, Redirect, Switch} from 'react-router-dom';
 import Header from './components/Header/Header';
 
 
@@ -49,7 +49,7 @@ class Routes extends Component {
   <BrowserRouter >
       <Switch>
           <Route exact path="/" component={
-			  props => <div > 	<Navbar /><HomeHeader /> <HomeSection1 /> <HomeSection2 /><HomeSection3 /> <Footer /> </div> 
+			  props => <div > 	<Navbar /> <HomeHeader /> <HomeSection1 /> <HomeSection2 /><HomeSection3 /> <Footer /> </div>
 			  
 			  } />
           <Route path="/what-we-do" component={
