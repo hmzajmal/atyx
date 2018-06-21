@@ -47,21 +47,22 @@ class Routes extends Component {
   render() {
     return (
   <BrowserRouter >
-      <Switch>
+      <div>
+      <Navbar />
           <Route exact path="/" component={
-			  props => <div > 	<Navbar /> <HomeHeader /> <HomeSection1 /> <HomeSection2 /><HomeSection3 /> <Footer /> </div>
+			  props => <div > 	<HomeHeader /> <HomeSection1 /> <HomeSection2 /><HomeSection3 /> <Footer /> </div>
 			  
 			  } />
-          <Route path="/what-we-do" component={
-        props => <div >   <Navbar /><WhatWeDoHeader /><WhatWeDoSection1/> <WhatWeDoSection2/> <Footer /> </div>
+          <Route exact path="/what-we-do" component={
+        props => <div >   <WhatWeDoHeader /><WhatWeDoSection1/> <WhatWeDoSection2/> <Footer /> </div>
         } />
 		 <Route path="/our-work" component={
-			  props => <div > 	<Navbar /><OurWorkHeader /><OurWorkSection1/> <Footer /> </div>
+			  props => <div > 	<OurWorkHeader /><OurWorkSection1/> <Footer /> </div>
 			  } />			  
 		<Route path="/contact" component={
-			  props => <div > 	<Navbar /><ContactHeader /><ContactSection1/>  </div> 
+			  props => <div > 	<ContactHeader /><ContactSection1/>  </div> 
 			  } />
-      </Switch>
+      </div>
   </BrowserRouter>
 );
 }
