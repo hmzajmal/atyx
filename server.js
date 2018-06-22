@@ -34,6 +34,8 @@
 var express = require('express');
 var app = express();
 
+app.use(express.static('build/vendor'))
+
 app.get('/*', function(req, res) {
   res.sendFile(__dirname + "/build/", function(err) {
     if (err) {
