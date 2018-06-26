@@ -11,11 +11,9 @@ class ContactSection1 extends Component {
         
           <div class="col-lg-12 col-md-12 text-center">
             <div class="mt-12 mx-auto">
-              <h4 class="mb-3">Have questions about Atyx.io?</h4>
-              <h4 class="mb-3">Want to learn more about our services?</h4>
-              <h4 class="mb-3">Interested in retaining us for a project, or working together on a collaboration?</h4>
-              <h4 class="mb-3">At Atyx, we welcome any and all inquiries.</h4>
-              <p class="text-muted mb-0">Whether you want to hire us, learn more about our services, or just chat about our areas of expertise, we’re here for you. We can be reached by email using the form below, or at any of the contact options provided. </p>
+              <h4 class="mb-3">[INSERT PHONE NUMBER AND MAILING ADDRESS HERE]</h4>
+              <h4 class="mb-3">[INSERT CONTACT FORM HERE]</h4>
+              <p class="text-muted mb-0">Note: If you’re reaching out by phone, our business hours at ____ to _____ [INSERT TIME ZONE HERE]. If you reach us outside of normal business hours, you can leave a voice message and we’ll make sure to reply on the next business day. We will respond to all email inquiries within 24 hours or 1 business day.</p>
             </div>
           </div>
        </div>

@@ -23,7 +23,14 @@ class Header extends Component {
             <hr/>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">We work with organizations to deploy cutting-edge solutions in areas of highly emergent innovation. We help organizations derive competitive advantage by helping them build novel products and services around evolving technology. In particular, we are experts in developing rapid system and software prototypes for commercial adoption of evolving technologies.</p>
+            <p class="text-faded mb-5">Have questions about Atyx.io? <br/>
+
+Want to learn more about our services? <br/>
+
+Interested in retaining us for a project, or working together on a collaboration? <br/><br/>
+
+At Atyx, we welcome any and all inquiries. Whether you want to hire us, learn more about our services, or just chat about our areas of expertise, we’re here for you. We can be reached by email using the form below, or at any of the contact options provided. 
+</p>
            
           </div>
         </div>

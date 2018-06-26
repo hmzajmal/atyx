@@ -18,6 +18,10 @@ import HomeSection3 from '././components/HomePage/HomeSection3/HomeSection3';
 import HomeSection4 from '././components/HomePage/HomeSection4/HomeSection4';
 /* End Home Page Components */
 
+/* Start AboutPage Page Components */
+import AboutHeader from '././components/AboutPage/Header/Header';
+import AboutTeamSection from '././components/AboutPage/AboutTeam/AboutTeamSection';
+
 /* Start WhatWeDo Page Components */
 import WhatWeDoHeader from '././components/WhatWeDoPage/Header/Header';
 import WhatWeDo from '././components/WhatWeDoPage/WhatWeDo/WhatWeDo';
@@ -28,6 +32,10 @@ import WhatWeDoSection2 from '././components/WhatWeDoPage/WhatWeDoSection2/WhatW
 /* Start OurWorkPage Page Components */
 import OurWorkHeader from '././components/OurWorkPage/Header/Header';
 import OurWorkSection1 from '././components/OurWorkPage/OurWorkSection1/OurWorkSection1';
+
+/* Start CareersPage Page Components */
+import CareersHeader from '././components/CareersPage/Header/Header';
+import CareersSection1 from '././components/CareersPage/CareersSection1/CareersSection1';
 
 /* Start ContactPage Page Components */
 import ContactHeader from '././components/ContactPage/Header/Header';
@@ -49,17 +57,22 @@ class Routes extends Component {
   <BrowserRouter >
       <div>
       <Navbar />
-          <Route exact path="/" component={
-			  props => <div > 	<HomeHeader /> <HomeSection1 /> <HomeSection2 /><HomeSection3 /> <Footer /> </div>
-			  
+        <Route exact path="/" component={
+        props => <div >   <HomeHeader /> <HomeSection1 /> <HomeSection2 /><HomeSection3 /> <Footer /> </div>
+        } />
+        <Route exact path="/about" component={
+			  props => <div > 	<AboutHeader /> <AboutTeamSection /> <Footer /> </div>
 			  } />
-          <Route exact path="/what-we-do" component={
+        <Route exact path="/what-we-do" component={
         props => <div >   <WhatWeDoHeader /><WhatWeDoSection1/> <WhatWeDoSection2/> <Footer /> </div>
         } />
-		 <Route path="/our-work" component={
-			  props => <div > 	<OurWorkHeader /><OurWorkSection1/> <Footer /> </div>
+        <Route path="/our-work" component={
+        props => <div >   <OurWorkHeader /><OurWorkSection1/> <Footer /> </div>
+        } />  
+        <Route path="/careers" component={
+			  props => <div > 	<CareersHeader /><CareersSection1/> <Footer /> </div>
 			  } />			  
-		<Route path="/contact" component={
+		    <Route path="/contact" component={
 			  props => <div > 	<ContactHeader /><ContactSection1/>  </div> 
 			  } />
       </div>
