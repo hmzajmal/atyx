@@ -23,7 +23,16 @@ class Header extends Component {
             <hr/>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">We work with organizations to deploy cutting-edge solutions in areas of highly emergent innovation. We help organizations derive competitive advantage by helping them build novel products and services around evolving technology. In particular, we are experts in developing rapid system and software prototypes for commercial adoption of evolving technologies.</p>
+            <p class="text-faded mb-5">At Atyx.io, we provide high calibre services in three main areas: <br/><br/>
+
+1. Software and systems development, including legacy system support.<br/>
+2. Technology consulting and IT strategy.<br/>
+3. New technology development, including blockchain, IoT and AI/machine learning.<br/><br/>
+
+When we start on a project, our objective is to help you better utilize, develop and deploy technology to meet organizational objectives. We have a particular focus on product and service commercialization, having helped organizations as diverse as Fortune 500 companies, universities and start-ups in this area.
+<br/><br/>
+See case studies below for examples of projects we have successfully completed for our clients. 
+</p>
            
           </div>
         </div>

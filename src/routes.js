@@ -27,6 +27,14 @@ import WhatWeDoHeader from '././components/WhatWeDoPage/Header/Header';
 import WhatWeDo from '././components/WhatWeDoPage/WhatWeDo/WhatWeDo';
 import WhatWeDoSection1 from '././components/WhatWeDoPage/WhatWeDoSection1/WhatWeDoSection1';
 import WhatWeDoSection2 from '././components/WhatWeDoPage/WhatWeDoSection2/WhatWeDoSection2';
+import SoftwareSystemsHeader from '././components/WhatWeDoPage/WhatWeDoSection1/SoftwareSystems/Header/Header'
+import SoftwareSystemsSection1 from '././components/WhatWeDoPage/WhatWeDoSection1/SoftwareSystems/SoftwareSystemsSection1/SoftwareSystemsSection1'
+import NewTechnologiesHeader from '././components/WhatWeDoPage/WhatWeDoSection1/NewTechnologies/Header/Header'
+import NewTechnologiesSection1 from '././components/WhatWeDoPage/WhatWeDoSection1/NewTechnologies/NewTechnologiesSection1/NewTechnologiesSection1'
+import TechnologyConsultingHeader from '././components/WhatWeDoPage/WhatWeDoSection1/TechnologyConsulting/Header/Header'
+import TechnologyConsultingSection1 from '././components/WhatWeDoPage/WhatWeDoSection1/TechnologyConsulting/TechnologyConsultingSection1/TechnologyConsultingSection1'
+
+
 /* End WhatWeDo Page Components */
 
 /* Start OurWorkPage Page Components */
@@ -73,7 +81,16 @@ class Routes extends Component {
 			  props => <div > 	<CareersHeader /><CareersSection1/> <Footer /> </div>
 			  } />			  
 		    <Route path="/contact" component={
-			  props => <div > 	<ContactHeader /><ContactSection1/>  </div> 
+        props => <div >   <ContactHeader /><ContactSection1/>  </div> 
+        } />
+        <Route path="/software-and-systems" component={
+        props => <div >   <SoftwareSystemsHeader /><SoftwareSystemsSection1/> <Footer />  </div> 
+        } />
+        <Route path="/new-technologies" component={
+        props => <div >   <NewTechnologiesHeader /><NewTechnologiesSection1/> <Footer />  </div> 
+        } />
+        <Route path="/technology-consulting" component={
+			  props => <div > 	<TechnologyConsultingHeader /> <Footer />  </div> 
 			  } />
       </div>
   </BrowserRouter>

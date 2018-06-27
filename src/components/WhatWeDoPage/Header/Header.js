@@ -23,7 +23,7 @@ class Header extends Component {
             <hr/>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">We work with organizations to deploy cutting-edge solutions in areas of highly emergent innovation. We help organizations derive competitive advantage by helping them build novel products and services around evolving technology. In particular, we are experts in developing rapid system and software prototypes for commercial adoption of evolving technologies.</p>
+            <p class="text-faded mb-5">At Atyx.io, we develop cutting edge solutions in new and emerging areas of tech innovation. We help you, the client, develop competitive advantages, by building products and services that are well ahead of the status quo. We have an especially strong competency in developing system and software prototypes with commercial potential in rapidly evolving areas of technology.</p>
            
           </div>
         </div>
