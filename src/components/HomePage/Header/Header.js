@@ -23,7 +23,7 @@ class Header extends Component {
             <hr/>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">Smarter Software and Systems Development</p>
+            <p class="text-faded mb-5">Smarter Systems and Software Development</p>
             <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
           </div>
         </div>

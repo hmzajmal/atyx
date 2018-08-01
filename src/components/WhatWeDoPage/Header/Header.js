@@ -23,7 +23,7 @@ class Header extends Component {
             <hr/>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">At Atyx.io, we develop cutting edge solutions in new and emerging areas of tech innovation. We help you, the client, develop competitive advantages, by building products and services that are well ahead of the status quo. We have an especially strong competency in developing system and software prototypes with commercial potential in rapidly evolving areas of technology.</p>
+            <p class="text-faded mb-5">At Atyx.io, we develop cutting edge solutions in new and emerging areas of technology innovation. Our knowledge in software development processes, expertise in implementing software design and experience in delivering complex solutions enable our clients to continuously stay ahead in the technology life cycle. Our competency lies in developing system and software prototypes to enable product/service commercialization. We also have capabilities in providing IT strategy advisory, business process optimization and developing custom IT/software solutions to an organization’s business requirements.</p>
            
           </div>
         </div>

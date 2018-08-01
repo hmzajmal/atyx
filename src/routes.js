@@ -90,7 +90,7 @@ class Routes extends Component {
         props => <div >   <NewTechnologiesHeader /><NewTechnologiesSection1/> <Footer />  </div> 
         } />
         <Route path="/technology-consulting" component={
-			  props => <div > 	<TechnologyConsultingHeader /> <Footer />  </div> 
+			  props => <div > 	<TechnologyConsultingHeader /><TechnologyConsultingSection1/> <Footer />  </div> 
 			  } />
       </div>
   </BrowserRouter>

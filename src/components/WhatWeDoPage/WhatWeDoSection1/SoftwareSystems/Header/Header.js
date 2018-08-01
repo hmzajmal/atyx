@@ -18,12 +18,12 @@ class Header extends Component {
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>Software and Systems Development</strong>
+              <strong>Systems and Software Development</strong>
             </h1>
             <hr/>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">Development is at the core of our service offerings. Whether it’s building software applications from the ground up, or improving existing systems to meet particular business needs, we’re always striving to push the boundaries of software and systems development.<br/><br/>Our software and systems development service areas include:</p>
+            <p class="text-faded mb-5">Development is at the core of our service offerings. Whether it’s building software applications from the ground up, or improving existing systems to meet particular business needs, we’re always striving to push the boundaries of systems and software development.<br/><br/>Our software and systems development service areas include:</p>
            
           </div>
         </div>

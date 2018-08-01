@@ -12,8 +12,8 @@ class SoftwareSystemsSection1 extends Component {
           <div class="col-lg-6 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons"></i>
-              <h4 class="mb-3">Rapid Prototyping</h4>
-              <p class="text-muted mb-0">Developing software prototypes with the goal of commercial release.</p>
+              <h4 class="mb-3">System and software prototyping</h4>
+              <p class="text-muted mb-0">Developing system and software prototypes to enable rapid technology commercialisation</p>
 
             </div>
           </div>
@@ -21,7 +21,7 @@ class SoftwareSystemsSection1 extends Component {
             <div class="service-box mt-5 mx-auto">
               <i class="fa fa-4x fa-paper-plane text-primary mb-3 sr-icons"></i>
               <h4 class="mb-3">Cloud Based Solutions</h4>
-              <p class="text-muted mb-0">Development of, and support for, cloud-based technology, such as SaaS applications and cloud storage.</p>
+              <p class="text-muted mb-0">Developing and implementing solutions, testing, evaluating and supporting different cloud architectures, off-the-shelf cloud products, cloud-based service models (e.g. SaaS, PaaS, IaaS) and cloud security</p>
             </div>
           </div>
        </div>
@@ -33,7 +33,7 @@ class SoftwareSystemsSection1 extends Component {
             <div class="service-box mt-5 mx-auto">
               <i class="fa fa-4x fa-paper-plane text-primary mb-3 sr-icons"></i>
               <h4 class="mb-3">Web-based Systems and Apps</h4>
-              <p class="text-muted mb-0">Developing web-based systems and applications, both for commercial release and for internal use inside companies.</p>
+              <p class="text-muted mb-0">Developing web-based systems, web-based applications and native Apps for different functional requirements to be supported on web-based architectures</p>
             </div>
           </div>
        </div>

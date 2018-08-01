@@ -23,15 +23,15 @@ class Header extends Component {
             <hr/>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">At Atyx.io, we provide high calibre services in three main areas: <br/><br/>
+            <p class="text-faded mb-5">At Atyx.io, we provide products, services and solutions in three main areas:<br/><br/>
 
-1. Software and systems development, including legacy system support.<br/>
-2. Technology consulting and IT strategy.<br/>
-3. New technology development, including blockchain, IoT and AI/machine learning.<br/><br/>
+1. Systems and Software Development<br/>
+2. Technology Consulting<br/>
+3. New and Emerging Technologies<br/><br/>
 
-When we start on a project, our objective is to help you better utilize, develop and deploy technology to meet organizational objectives. We have a particular focus on product and service commercialization, having helped organizations as diverse as Fortune 500 companies, universities and start-ups in this area.
+We work with our clients to meticulously scope the tasks to be undertaken prior to commencing work and rigorously provide our deliveries within the client’s stipulated time and budget. Quality of our work is our uncompromising ethic and we strive to continuously exceed the expectations of our clients. Our team members have successfully worked with clients drawn from large multinational companies, universities, research institutes, SMEs and startups across Australia, USA, Singapore, South Korea, India and Saudi Arabia. 
 <br/><br/>
-See case studies below for examples of projects we have successfully completed for our clients. 
+See case studies below for examples of projects our team have successfully completed.
 </p>
            
           </div>

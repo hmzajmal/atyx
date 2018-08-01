@@ -23,7 +23,7 @@ class Header extends Component {
             <hr/>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">We are Atyx.io. We are a team of engineers and technologists with extensive experience in new product and service commercialization. Our team brings a diverse set of skills to the table, including software engineering, product development, programming, and patent law. This varied skill set gives us the unique ability to serve you at different stages of the product%2Fservice commercialization process, from idea conception to product launch and beyond.<br/><br/>See below to read about our team members, their unique backgrounds and skill sets.
+            <p class="text-faded mb-5">We are Atyx.io. We are a team of engineers and technologists with extensive experience in new product and service commercialization. Our team brings a diverse set of skills to the table, including software engineering, product development, programming, and patent law. This varied skill set gives us the unique ability to serve you at different stages of the product/service commercialization process, from idea conception to product launch and beyond.<br/><br/>See below to read about our team members, their unique backgrounds and skill sets.
 </p>
            
           </div>
