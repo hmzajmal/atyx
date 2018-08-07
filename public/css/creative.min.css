@@ -32,6 +32,7 @@ h6 {
   /* The Heading Font by Hamza Jamal */
   /* font-family: "Helvetica\ Neu\ Bold"; */
   font-family: "HelveticaNeueMed";
+  font-size: 200;
   
 }
 @font-face{
@@ -87,9 +88,10 @@ img::-moz-selection {
 }
 #mainNav .navbar-brand {
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: lowercase;
   color: #06c3de;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+
 }
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
@@ -97,10 +99,17 @@ img::-moz-selection {
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-  font-size: 0.9rem;
-  font-weight: 700;
-  text-transform: uppercase;
+
+   /* Change Lower case Hamza Jamal */
+  font-size: 1rem;
+  /* font-size: 0.9rem; */
+  text-transform: lowercase;
   color: #212529;
+  font-family: "Helvetica-Normal";
+}
+@font-face{
+  font-family: "Helvetica-Normal";
+  src: url("./Helvetica-Normal.ttf")
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover {
@@ -111,7 +120,7 @@ img::-moz-selection {
 /* ///////////////////////////////////////////////////////////////////////Nav Color */
   background-color: transparent;
   color: #06c3de;
-  border-bottom: 1px solid #009fb5;
+  border-bottom: 2px solid #009fb5;
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
@@ -254,7 +263,7 @@ header.masthead p {
   .project-category {
   font-size: 14px;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 .portfolio-box
   .portfolio-box-caption
@@ -286,11 +295,11 @@ header.masthead p {
   color: #06c3de !important;
 }
 .btn {
-  font-weight: 700;
-  text-transform: uppercase;
+  font-weight: 200;
+  /* text-transform: uppercase; */
   border: none;
   border-radius: 300px;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Helvetica Neue", "Arial";
 }
 .btn-xl {
   padding: 1rem 2rem;

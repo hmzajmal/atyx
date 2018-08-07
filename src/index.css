@@ -16,3 +16,16 @@ body {
   font-family: "HelveticaNeueLight";
   src: url('./fonts/HelveticaNeueLight.ttf')
 }
+
+.text-uppercase {
+/* //Hamza -> This lowecases the "atyx" */
+
+  text-transform: lowercase !important;
+  letter-spacing: 2px;
+  font-family: "helveticaneue";
+  font-weight: 200;
+}
+h2{
+  /* // About us, what we do etc  */
+  text-transform: lowercase;
+}
